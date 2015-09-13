@@ -9,3 +9,4 @@ new message added to feature2 branch in readme
 changes added for checking stash command in readme
 branch feature4 added
 fix1 branch created
+bug fix2 added
