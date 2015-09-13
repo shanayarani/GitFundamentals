@@ -4,3 +4,4 @@ updated file1
 Changes made for fetch commands
 feature 2 branch created
 new message added to feature2 branch in readme
+changes added for checking stash command in readme
